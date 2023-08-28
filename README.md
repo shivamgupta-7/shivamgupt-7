@@ -6,15 +6,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinarest1608" alt="sinarest1608" /></a> </p>
 
-- 🔭 I’m currently working on *ReactJs*
+- 🔭 I’m currently working on *Java*
 
-- 🌱 I’m currently learning *Erlang, CyberSecurity*
+- 🌱 I’m currently learning *Software Development, Full Stack Development*
 
 - 👯 I’m looking to collaborate on *Full Stack Development*
 
-- 🤝 I’m looking for help with *Internships*
+- 🤝 I’m looking for help with *Full Time, New Grad Roles*
 
-- 💬 Ask me about *Machine Learning, Database Management, Python*
+- 💬 Ask me about *Software Development, Machine Learning, Database Management, Python*
 
 - 📫 How to reach me *shivamguptasml@gmail.com*
 
